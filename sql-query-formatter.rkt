@@ -7,7 +7,7 @@
 
 ;;; consts
 
-(define appname "SQL query prepper")
+(define appname "SQL query formatter")
 
 ;;; defs
 
