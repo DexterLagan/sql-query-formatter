@@ -3,13 +3,13 @@ An SQL query formatter written in Racket.
 
 ## Introduction
 
-SQL Query Formatter reads a long line of code containing an SQL query from the clipboard, cuts it into neatly formatted lines of code with underscore line breaks.
+SQL Query Formatter reads a long line of code containing an SQL query from the clipboard, cuts it into neatly formatted lines of code with underscore line breaks. SQL Query Formatter reads code from the clipboard. Copy your line, run this, then paste it back into your code and voilà! You get several cleanly formatted lines of code.
 
 ## Features
 
+- Reads code directly from the clipboard;
 - Automatic syntax detection;
-- Parses and breaks SQL queries according to their grammar;
-- 
+- Parses and breaks SQL queries according to their grammar.
 
 ## Technical Details
 
