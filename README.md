@@ -52,4 +52,4 @@ Turns this:
 
 ## License
 
-
+SQL Query Formatter is free software; see [LICENSE](https://github.com/DexterLagan/sql-query-formatter/blob/master/LICENSE) for more details.
