@@ -1,5 +1,17 @@
-# sql-query-formatter
-An SQL query formatter written in Racket
+# Sql Query Formatter
+An SQL query formatter written in Racket.
+
+## Introduction
+
+SQL Query Formatter reads a long line of code containing an SQL query from the clipboard, cuts it into neatly formatted lines of code with underscore line breaks.
+
+## Features
+
+- Automatic syntax detection;
+- Parses and breaks SQL queries according to their grammar;
+- 
+
+## Technical Details
 
 Turns this:
 <pre>
@@ -38,7 +50,6 @@ Turns this:
 "AND pd.produit_descript_num = p.produit_descript_num ORDER BY p.produit_num"
 </pre>
 
-Cheers,
+## License
 
-Dexter Santucci<br>
-Ottawa, April 2019
+
